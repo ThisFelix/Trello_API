@@ -3,6 +3,7 @@
 		var authenticationSuccess = function() { 
 		
 		console.log('Successful authentication'); 
+		buscaBoard();
 		};
 		var authenticationFailure = function() { console.log('Failed authentication'); 
 		};
