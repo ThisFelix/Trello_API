@@ -1,0 +1,6 @@
+use_chat=another+value;
+use_forum=maybe;
+libera_classificados=true;
+num_dias_min_locacao=5;
+num_dias_max_locacao=90;
+mensagem_locacao=A+loca%E7ao+do+salao+ocorrera+apenas+para+coisas+serias
