@@ -11,5 +11,3 @@
     <link href="<?= base_url('assets/css/mdb.min.css') ?>" rel="stylesheet">
     <link href="<?= base_url('assets/css/style.css') ?>" rel="stylesheet">
 </head>
-
-<body>
