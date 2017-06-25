@@ -10,7 +10,7 @@
         <p>Insira as informacoes para inserir um card no trello</p>
 		<div class="form-group">
   		<label for="sel1">Board do Trello</label>
-  		<select class="form-control" id="sel1" class="selectBoard" name="boards" onfocus="buscaBoard();">
+  		<select class="form-control" id="sel1" class="selectBoard" name="boards">
   			<option value="" disabled selected>Choose your option</option>
     		
   		</select>
