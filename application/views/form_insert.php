@@ -24,13 +24,13 @@
         <!--Body-->
         <div class="md-form">
             <i class="fa fa-user prefix"></i>
-            <input type="text" id="name" class="form-control" name="name">
+            <input type="text" id="name" class="form-control" name="name" required>
             <label for="form3">Nome do Card: </label>
         </div>
 
         <div class="md-form">
             <i class="fa fa-envelope prefix"></i>
-            <input type="text" id="description" class="form-control" name="desc">
+            <input type="text" id="description" class="form-control" name="desc" required>
             <label for="form2">Descricao: </label>
         </div>
        <div class="text-center">
