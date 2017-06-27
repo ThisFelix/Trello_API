@@ -88,7 +88,7 @@
  					
  				console.log('Card created successfully. Data returned:' + JSON.stringify(data));
  				alert('Card Inserido Com Sucesso');
- 				
+ 				location.reload();
  				};
  				
  				var newCard = {
